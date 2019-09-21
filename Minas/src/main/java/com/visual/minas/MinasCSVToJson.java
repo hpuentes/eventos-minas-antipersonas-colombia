@@ -14,6 +14,7 @@ import java.util.Scanner;
 import com.fasterxml.jackson.core.JsonGenerationException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.sun.org.apache.xpath.internal.axes.HasPositionalPredChecker;
 import com.visual.geojson.geometry.Geometry;
 import com.visual.geojson.geometry.Point;
 import com.visual.geojson.object.Feature;
@@ -23,11 +24,28 @@ import com.visual.geojson.object.IdentifiedFeature;
 public class MinasCSVToJson {
 	
 	private static final String Point = "Point";
-	
+	private HashMap<String,String> types = new HashMap<>();
+
+	public MinasCSVToJson(){
+		this.init();
+	}
+
+	private void init() {
+		this.types.put("Accidente por MAP","1");
+		this.types.put("Accidente por MUSE","2");
+		this.types.put("Arsenal almacenada","3");
+		this.types.put("Desminado militar en operaciones","4");
+		this.types.put("Incautaciones","5");
+		this.types.put("Municiones sin explotar","6");
+		this.types.put("Producción de Minas (Fábrica)","7");
+		this.types.put("Sospecha de campo minado","8");
+	}
+
 	public static void main(String[] args){
 		MinasCSVToJson toJson = new MinasCSVToJson();
 		
-		toJson.createGeojsonFile("eventos_minas.json","Eventos_Minas_Antipersonal_en_Colombia.csv",Point,true,"AÑO","MES","TIPO_EVENTO","DEPARTAMENTO","MUNICIPIO","TIPO_AREA");
+		toJson.createGeojsonFile("eventos_minas.json","Eventos_Minas_Antipersonal_en_Colombia.csv",Point,true,
+				"AÑO","MES","TIPO_EVENTO","DEPARTAMENTO","MUNICIPIO","TIPO_AREA");
 				
 	}
 		
@@ -81,6 +99,9 @@ public class MinasCSVToJson {
 					propertiesMap = this.filterProperties(propertiesToShow,propertiesMap);
 				feature.setProperties(propertiesMap);
 				propertiesMap.put("MES_AÑO",propertiesMap.get("AÑO")+"-"+propertiesMap.get("MES"));
+				propertiesMap.remove("AÑO");
+				propertiesMap.remove("MES");
+				propertiesMap.put("TIPO_EVENTO",this.types.get(propertiesMap.get("TIPO_EVENTO")));
 			}
 			else
 				feature.setProperties(new HashMap<>());
