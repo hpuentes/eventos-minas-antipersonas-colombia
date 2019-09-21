@@ -45,7 +45,7 @@ public class MinasCSVToJson {
 		MinasCSVToJson toJson = new MinasCSVToJson();
 		
 		toJson.createGeojsonFile("eventos_minas.json","Eventos_Minas_Antipersonal_en_Colombia.csv",Point,true,
-				"AÑO","MES","TIPO_EVENTO","DEPARTAMENTO","MUNICIPIO","TIPO_AREA");
+				"AÑO","TIPO_EVENTO","DEPARTAMENTO","MUNICIPIO","TIPO_AREA");
 				
 	}
 		
@@ -98,9 +98,6 @@ public class MinasCSVToJson {
 				if(propertiesToShow.length > 0)
 					propertiesMap = this.filterProperties(propertiesToShow,propertiesMap);
 				feature.setProperties(propertiesMap);
-				propertiesMap.put("MES_AÑO",propertiesMap.get("AÑO")+"-"+propertiesMap.get("MES"));
-				propertiesMap.remove("AÑO");
-				propertiesMap.remove("MES");
 				propertiesMap.put("TIPO_EVENTO",this.types.get(propertiesMap.get("TIPO_EVENTO")));
 			}
 			else
