@@ -25,6 +25,7 @@ public class MinasCSVToJson {
 	
 	private static final String Point = "Point";
 	private HashMap<String,String> types = new HashMap<>();
+	private HashMap<String,FeatureCollection> featureCollections = new HashMap<>();
 
 	public MinasCSVToJson(){
 		this.init();
@@ -44,20 +45,38 @@ public class MinasCSVToJson {
 	public static void main(String[] args){
 		MinasCSVToJson toJson = new MinasCSVToJson();
 		
-		toJson.createGeojsonFile("eventos_minas.json","Eventos_Minas_Antipersonal_en_Colombia.csv",Point,true,
+		toJson.createGeojsonFiles("Eventos_Minas_Antipersonal_en_Colombia.csv",Point,true,
 				"AÑO","TIPO_EVENTO","DEPARTAMENTO","MUNICIPIO","TIPO_AREA");
 				
 	}
 		
-	private void createGeojsonFile(String outFile, String inFile, String geometry, boolean withProperties, String... propertiesToShow) {
-		ObjectMapper serializer = new ObjectMapper();
-		FeatureCollection jsonCollection = this.createFeatureCollection(inFile,geometry,withProperties,propertiesToShow);		
+	private void createGeojsonFiles(String inFile, String geometry, boolean withProperties, String... propertiesToShow) {
+
+		for(int i = 1990; i <= 2019; i++)
+		{
+			FeatureCollection jsonCollection = new FeatureCollection();
+			List<Feature> features = new ArrayList<Feature>();
+			jsonCollection.setFeatures(features);
+			featureCollections.put(i+"",jsonCollection);
+		}
+
+		this.createFeatureCollections(inFile,geometry,withProperties,propertiesToShow);
+
+		ArrayList<String> years = new ArrayList<>(this.featureCollections.keySet());
+		for(String year: years)
+		{
+			this.saveFile(year+".json",this.featureCollections.get(year));
+		}
+	}
+
+	private void saveFile(String outFile, FeatureCollection featureCollection) {
 		try {
 			File jsonFile = new File(outFile);
 			if(jsonFile.exists())
 				jsonFile.delete();
 			FileOutputStream jsonOut = new FileOutputStream(new File(outFile));
-			serializer.writerWithDefaultPrettyPrinter().writeValue(jsonOut, jsonCollection);
+			ObjectMapper serializer = new ObjectMapper();
+			serializer.writerWithDefaultPrettyPrinter().writeValue(jsonOut, featureCollection);
 			jsonOut.close();
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
@@ -67,19 +86,16 @@ public class MinasCSVToJson {
 			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();
-		}			
+		}
 	}
 
-	private FeatureCollection createFeatureCollection(String inFile, String geometry, boolean withProperties, String[] propertiesToShow) {
-		
-		FeatureCollection jsonCollection = new FeatureCollection();
+	private void createFeatureCollections(String inFile, String geometry, boolean withProperties, String[] propertiesToShow) {
 
 		Scanner scanner = new Scanner(getClass().getClassLoader().getResourceAsStream(inFile));
 
 		String propertiesStr = scanner.nextLine();
 		String[] properties = propertiesStr.split(",");
-		
-		List<Feature> features = new ArrayList<Feature>();
+
 		while (scanner.hasNext()) {
 			String line = scanner.nextLine();
 			String[] values = line.split(",");
@@ -103,13 +119,9 @@ public class MinasCSVToJson {
 			else
 				feature.setProperties(new HashMap<>());
 
-			features.add(feature);
+			this.featureCollections.get(propertiesMap.get("AÑO")).getFeatures().add(feature);
 		}
-		jsonCollection.setFeatures(features);
 		scanner.close();
-		
-		return jsonCollection;
-
 	}
 
 	private Map<String, Serializable> filterProperties(String[] propertiesToShow,

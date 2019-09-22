@@ -1,0 +1,676 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.85989056, 8.274464722 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "FLORENCIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.619118, 1.621012 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "SAN MARTÍN DE LOBA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.040398, 8.946799 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "EL BAGRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.809065, 7.597383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "MEDELLÍN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.564887, 6.229209 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "MONTECRISTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.473165, 8.296544 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "DUITAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.083342, 5.865835 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "TOLIMA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "ANZOÁTEGUI"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.091715, 4.634498 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.384978, 7.023186 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "BOGOTA DC",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "Bogotá DC"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.146592, 4.680486 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "ACHÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.560996, 8.573333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "SANTA ROSA DEL SUR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.051674, 7.963275 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "MESETAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.042419, 3.380371 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "ALGECIRAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.313361, 2.522444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.640033, 2.564079 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "DUITAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.020169, 5.852157 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "ALGECIRAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.313361, 2.522444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "MEDELLÍN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.564887, 6.229209 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "BUCARAMANGA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.11699582, 7.105141468 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "VALLE DEL CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "JAMUNDÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.539375, 3.263488 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "SIMITÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.94485861, 7.954365833 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CUNDINAMARCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "GUAYABETAL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.813409, 4.21648 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "MILÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.507011, 1.289829 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "FLORENCIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.617827, 1.618746 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "CUBARÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.108812, 6.999242 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "FLORENCIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.619118, 1.621012 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "CISNEROS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.091227, 6.541314 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "ZARAGOZA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.867778, 7.490632 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "FRONTINO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.127587, 6.781751 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CASANARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "CHÁMEZA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.869693, 5.214621 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "TOLEDO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.484092, 7.311003 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.384978, 7.023186 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.730855, 6.461209 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "SABANA DE TORRES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.496496, 7.397197 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "VALLE DEL CAUCA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "CALI"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.520562, 3.441883 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "ACHÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.560996, 8.573333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "MURINDÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.818444, 6.976947 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1991",
+      "MUNICIPIO" : "EL BAGRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.809065, 7.597383 ]
+    }
+  } ],
+  "properties": {
+    "fields":{
+      "TIPO_EVENTO": {"lookup": {"1": "Accidente por MAP", "2": "Accidente por MUSE", "3": "Arsenal almacenada", "4": "Desminado militar en operaciones","5": "Incautaciones", "6":"Municiones sin explotar","7":"Producción de Minas (Fábrica)","8":"Sospecha de campo minado"}, "name": "Tipo de evento"},
+      "AÑO": {"name": "Año"},
+      "DEPARTAMENTO": {"name": "Departamento"},
+      "MUNICIPIO": {"name": "Municipio"},
+      "TIPO_AREA": {"name": "Tipo de area"}
+    }
+  }
+}

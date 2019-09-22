@@ -1,0 +1,2236 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "CHITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.47164083, 6.183883056 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "ALGECIRAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.313361, 2.522444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.53323056, 6.768066667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL BAGRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.809065, 7.597383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL PLAYÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.203767, 7.468218 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CASANARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "AGUAZUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.552642, 5.168712 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "TOLIMA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "CAJAMARCA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.426627, 4.441646 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "OCAÑA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.352514, 8.247898 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SEGOVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.698921, 7.080232 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SANTA ROSA DEL SUR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.051674, 7.963275 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SANTA ROSA DEL SUR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.055, 7.965 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL BAGRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.809065, 7.597383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "PUTUMAYO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SANTIAGO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.002314, 1.146769 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "YOLOMBÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.013537, 6.59606 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "AQUITANIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.795205, 5.521707 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "URIBE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.354381, 3.240915 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL BAGRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.809065, 7.597383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "DABEIBA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.263894, 7.002761 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "CURUMANÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.533992, 9.197758 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "TELLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.138764, 3.067077 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "CHIRIGUANÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.608403, 9.361663 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "REMEDIOS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.693451, 7.028009 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "ATLANTICO",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANQUILLA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.834331, 10.923183 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "ACHÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.560996, 8.573333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL BAGRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.809065, 7.597383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CUNDINAMARCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "CÁQUEZA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.946217, 4.404485 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SEGOVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.753889, 7.136667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "ALGECIRAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.313361, 2.522444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "TELLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.138764, 3.067077 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "ACHÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.560996, 8.573333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "TÁMESIS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.714279, 5.666284 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SANTA ROSA DEL SUR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.369341, 10.445003 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN DE BOLÍVAR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.12241208, 9.721296285 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "YARUMAL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.421, 6.965 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SABANA DE TORRES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.497158, 7.398249 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.384978, 7.023186 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "MONTAÑITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.440068, 1.481396 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CASANARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "CHÁMEZA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.875493, 5.216879 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.871697, 8.280161 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "PINILLOS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.465777, 8.916994 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "CHITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.473284, 6.187512 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN ALBERTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.395372, 7.768071 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "VALDIVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.441469, 7.167399 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL BAGRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.812181, 7.594228 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "RIONEGRO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.153718, 7.267477 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL BAGRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.812181, 7.594228 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCO DE LOBA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.112287, 8.949289 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "MONTAÑITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.440068, 1.481396 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL PLAYÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.207813, 7.476614 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "PUERTO LLERAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.372694, 3.270805 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "MILÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.507011, 1.289829 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL BAGRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.809065, 7.597383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SEGOVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.703643, 7.083547 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL BAGRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.809065, 7.597383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "PUERTO WILCHES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.894096, 7.344409 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "ZARAGOZA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.871349, 7.494219 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SARAVENA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.881734, 6.961668 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "CAREPA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.661196, 7.762817 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "AGUSTÍN CODAZZI"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.239035, 10.035868 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN DIEGO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.177303, 10.339958 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL COPEY"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.960141, 10.151103 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "7",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.859167, 7.063386 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "7",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "7",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "MEDELLÍN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.564887, 6.229209 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "TURBO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.73923237, 8.099159651 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "VEGACHÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.80240747, 6.756072378 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "YARUMAL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.420522, 6.964969 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "CAREPA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.661196, 7.762817 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "AMALFI"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.075344, 6.9081 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "PUERTO TRIUNFO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.639829, 5.873072 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN PEDRO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.555987, 6.459503 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN ROQUE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.022422, 6.487201 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ATLANTICO",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANQUILLA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.793301, 10.991129 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "PINILLOS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.465777, 8.916994 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "RÍOVIEJO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.845129, 8.586481 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "TUNUNGUÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.932975, 5.730299 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "MONIQUIRÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.571872, 5.874551 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DEL CAGUÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.768227, 2.120008 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DEL CAGUÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.768227, 2.120008 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BECERRIL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.282618, 9.703258 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BECERRIL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.282618, 9.703258 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BUCARAMANGA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.11699582, 7.105141468 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BUCARAMANGA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.11699582, 7.105141468 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "PUERTO PARRA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.054749, 6.654378 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "PUERTO WILCHES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.894096, 7.344409 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "PUERTO WILCHES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.906367, 7.34958 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "RIONEGRO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.152703, 7.268891 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "RIONEGRO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.152703, 7.268891 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SABANA DE TORRES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.496496, 7.397197 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.414124, 6.883666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.414124, 6.883666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "VALLE DEL CAUCA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "CALI"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.520562, 3.441883 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "COCORNÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.185085, 6.058001 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "LA JAGUA DE IBIRICO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.33274, 9.560655 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SEGOVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.698921, 7.080232 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "APARTADÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.625111, 7.882098 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "CORINTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.259786, 3.17428 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "PADILLA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.313518, 3.222036 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN PEDRO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.555987, 6.459503 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "LA VEGA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.75797264, 2.009271118 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SUCRE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "OVEJAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.229197, 9.517463 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL BAGRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.809065, 7.597383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "ZARAGOZA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.867778, 7.490632 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SABANA DE TORRES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.496496, 7.397197 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "AGUACHICA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.576768, 8.246159 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "PIEDECUESTA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.053854, 7.000837 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "PAUNA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.978741, 5.656463 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "AGUSTÍN CODAZZI"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.236046, 10.030592 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1992",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  } ],
+  "properties": {
+    "fields":{
+      "TIPO_EVENTO": {"lookup": {"1": "Accidente por MAP", "2": "Accidente por MUSE", "3": "Arsenal almacenada", "4": "Desminado militar en operaciones","5": "Incautaciones", "6":"Municiones sin explotar","7":"Producción de Minas (Fábrica)","8":"Sospecha de campo minado"}, "name": "Tipo de evento"},
+      "AÑO": {"name": "Año"},
+      "DEPARTAMENTO": {"name": "Departamento"},
+      "MUNICIPIO": {"name": "Municipio"},
+      "TIPO_AREA": {"name": "Tipo de area"}
+    }
+  }
+}

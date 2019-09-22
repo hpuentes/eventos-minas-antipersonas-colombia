@@ -1,0 +1,2717 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "LA PLATA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.892529, 2.390531 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PAJARITO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.739812, 5.272975 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PAJARITO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.703065, 5.293225 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SIMITÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.94357316, 7.967790716 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CUNDINAMARCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BELTRÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.708257, 4.77495 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SEGOVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.698921, 7.080232 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SEGOVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.698921, 7.080232 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "VEGACHÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.80240747, 6.756072378 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MIRANDA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.228589, 3.251737 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "YARUMAL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.41644, 6.963517 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "YONDÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.909682, 7.006776 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SEGOVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.698921, 7.080232 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SEGOVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.698921, 7.080232 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MIRANDA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.228589, 3.251737 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "FLORENCIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.619118, 1.621012 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "COCORNÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.185085, 6.058001 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.730855, 6.461209 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "TOLIMA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "RIOBLANCO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.644823, 3.529701 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "PUTUMAYO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "VALLE DEL GUAMUEZ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.905657, 0.424591 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "PUTUMAYO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PUERTO ASÍS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.49818, 0.502569 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BELLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.56023948, 6.340642855 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SANTA ROSA DEL SUR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.055, 7.965 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MATANZA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.016985, 7.317122 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PIEDECUESTA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.053854, 7.000837 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CAÑASGORDAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.025341, 6.751363 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SIMITÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.949071, 7.956662 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ACEVEDO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.889013, 1.805222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DEL CAGUÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.768227, 2.120008 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CUNDINAMARCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN JUAN DE RIOSECO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.697222, 4.883333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "TOLIMA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CHAPARRAL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.485633, 3.723381 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "LA PLATA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.892529, 2.390531 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "TOLIMA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ANZOÁTEGUI"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.091715, 4.634498 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SEGOVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.703643, 7.083547 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ZARAGOZA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.871349, 7.494219 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PUERTO BERRÍO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.406822, 6.494481 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "REMEDIOS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.696332, 7.030573 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "REMEDIOS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.696332, 7.030573 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.871697, 8.280161 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.871697, 8.280161 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.871697, 8.280161 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "VALLEDUPAR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.248883, 10.481157 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "VALLEDUPAR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.250656, 10.47704 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PAILITAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.631725, 8.960772 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CUNDINAMARCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "FÓMEQUE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.897558, 4.488699 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CUNDINAMARCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "QUIPILE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.537447, 4.748467 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CUNDINAMARCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN JUAN DE RIOSECO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.626128, 4.850674 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CUBARRAL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.843253, 3.796891 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.906111, 9.002222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BETULIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.284055, 6.904414 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SURATÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.041667, 7.523611 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "TOLIMA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "RIOBLANCO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.6483, 3.532657 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.384978, 7.023186 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.384978, 7.023186 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.384978, 7.023186 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "PUTUMAYO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PUERTO ASÍS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.49818, 0.502569 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "PUTUMAYO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PUERTO ASÍS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.49818, 0.502569 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "PUTUMAYO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PUERTO ASÍS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.49818, 0.502569 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.642524, 2.553594 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CAICEDO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.982796, 6.405016 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "REMEDIOS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.696332, 7.030573 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.923917, 7.482242 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SEGOVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.703643, 7.083547 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BETULIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.284055, 6.904414 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "EL CASTILLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.798315, 3.565374 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "TIQUISIO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.261283, 8.55446 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "7",
+      "DEPARTAMENTO" : "CASANARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "RECETOR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.76312806, 5.236109 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MONTECRISTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.473165, 8.296544 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MEDELLÍN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.564887, 6.229209 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SEGOVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.698921, 7.080232 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "TURBO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.73923237, 8.099159651 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "VEGACHÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.80240747, 6.756072378 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CAREPA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.654277, 7.754994 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "EL BAGRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.809065, 7.597383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "GUARNE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.447139, 6.282383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ITAGÜÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.61426424, 6.176602819 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ITAGÜÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.61426424, 6.176602819 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ANDES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.880931, 5.658534 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ANGELÓPOLIS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.709578, 6.111036 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "REMEDIOS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.693451, 7.028009 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "REMEDIOS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.693451, 7.028009 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN ROQUE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.019268, 6.484969 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN ROQUE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.019268, 6.484969 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN ROQUE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.019268, 6.484969 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN ROQUE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.019268, 6.484969 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.332661, 6.283716 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ATLANTICO",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BARRANQUILLA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.834331, 10.923183 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOGOTA DC",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "Bogotá DC"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.146592, 4.680486 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CARTAGENA DE INDIAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.511207, 10.397047 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.865805, 8.270279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.871697, 8.280161 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BETULIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.984463, 6.112523 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PINILLOS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.466413, 8.918113 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ACHÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.560996, 8.573333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ACHÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.560996, 8.573333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ACHÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.560996, 8.573333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SIMITÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.949071, 7.956662 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SIMITÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.949071, 7.956662 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PAJARITO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.703065, 5.293225 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PAJARITO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.703065, 5.293225 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CALDAS",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAMANÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.989572, 5.411801 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CALDAS",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAMANÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.989572, 5.411801 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "FLORENCIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.619118, 1.621012 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DEL CAGUÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.768227, 2.120008 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DEL CAGUÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.768227, 2.120008 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "TORIBÍO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.27142, 2.958315 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CAJIBÍO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.570745, 2.622711 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "VALLEDUPAR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.246566, 10.447261 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "VALLEDUPAR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.246566, 10.447261 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "VALLEDUPAR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.246566, 10.447261 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "EL COPEY"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.960141, 10.151103 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "LA PAZ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.177506, 10.381976 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PAILITAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.629356, 8.959641 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PELAYA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.665121, 8.689091 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "AGUACHICA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.576768, 8.246159 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "AGUACHICA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.576768, 8.246159 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "AGUACHICA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.576768, 8.246159 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "AGUACHICA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.576768, 8.246159 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "AGUSTÍN CODAZZI"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.236046, 10.030592 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CURUMANÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.533992, 9.197758 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CURUMANÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.533992, 9.197758 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CURUMANÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.533992, 9.197758 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CUNDINAMARCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "FÓMEQUE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.897298, 4.482975 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CUNDINAMARCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ANOLAIMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.461745, 4.757304 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CUNDINAMARCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PASCA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.303416, 4.310541 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CUNDINAMARCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN JUAN DE RIOSECO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.619471, 4.850806 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "LLORÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.52329881, 5.503772765 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ISNOS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.216388, 1.929816 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "RIVERA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.2583, 2.7779 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BARAYA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.052789, 3.153331 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "URIBE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.354381, 3.240915 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "URIBE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.354381, 3.240915 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "EL CASTILLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.7944, 3.5637 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "EL CASTILLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.7944, 3.5637 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "EL CASTILLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.798315, 3.565374 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "EL CASTILLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.798315, 3.565374 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CUMBAL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.792061, 0.906258 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.735541, 8.639326 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.735541, 8.639326 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CONVENCIÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.336059, 8.475334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "GALÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.291934, 6.640716 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "LANDÁZURI"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.811182, 6.218214 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.509679, 6.703536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BARRANCABERMEJA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.855997, 7.061193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.414124, 6.883666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.414124, 6.883666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN VICENTE DE CHUCURÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.413915, 6.884411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BETULIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.284055, 6.904414 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ZAPATOCA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.272198, 6.819253 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SUCRE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "OVEJAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.229197, 9.517463 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "TOLIMA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PLANADAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.643224, 3.197458 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "TOLIMA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "RIOBLANCO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.644823, 3.529701 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "TOLIMA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "RIOBLANCO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.644823, 3.529701 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "TOLIMA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "RIOBLANCO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.644823, 3.529701 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.384978, 7.023186 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.730855, 6.461209 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CASANARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "AGUAZUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.552642, 5.168712 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "EL PLAYÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.203767, 7.468218 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "PELAYA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.665121, 8.689091 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SIMITÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.949071, 7.956662 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CURUMANÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.533992, 9.197758 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "BARAYA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.052789, 3.153331 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "5",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MONTECRISTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.473165, 8.296544 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.933361, 7.483919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "CASANARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "TÁMARA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.162979, 5.829771 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MIRAFLORES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.951518, 1.336939 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "SUCRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.795553, 5.912279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "MESETAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.042419, 3.380371 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.44629, 8.507478 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "VALLE DEL CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "CALI"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.520562, 3.441883 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "1995",
+      "MUNICIPIO" : "EL COCUY"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.444665, 6.4078 ]
+    }
+  } ],
+  "properties": {
+    "fields":{
+      "TIPO_EVENTO": {"lookup": {"1": "Accidente por MAP", "2": "Accidente por MUSE", "3": "Arsenal almacenada", "4": "Desminado militar en operaciones","5": "Incautaciones", "6":"Municiones sin explotar","7":"Producción de Minas (Fábrica)","8":"Sospecha de campo minado"}, "name": "Tipo de evento"},
+      "AÑO": {"name": "Año"},
+      "DEPARTAMENTO": {"name": "Departamento"},
+      "MUNICIPIO": {"name": "Municipio"},
+      "TIPO_AREA": {"name": "Tipo de area"}
+    }
+  }
+}

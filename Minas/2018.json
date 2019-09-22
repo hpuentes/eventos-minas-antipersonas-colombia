@@ -1,0 +1,7189 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.44305556, 6.726666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "JURADÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.57488889, 6.800222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ITUANGO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.8713528, 7.202165866 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.39799472, 7.586690781 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "MONTAÑITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.46308951, 1.494944213 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.11916667, 8.41 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.75194444, 6.810277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.35166667, 8.656944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.89833333, 8.990833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BARBACOAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.07777778, 1.486388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.00055556, 8.413055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.7475, 6.777222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.57277778, 6.615 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL RETORNO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.97305556, 2.251388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.19444444, 8.680833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.18805556, 8.683333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CHIMICHAGUA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.45416667, 8.981944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CONVENCIÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.31611111, 8.665277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.67833333, 1.328333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.55694444, 1.311388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ITUANGO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.55388889, 7.226111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.09416667, 8.406111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.12666667, 8.398611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BAGADÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.40222222, 5.391944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL RETORNO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.13305556, 2.138055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57027778, 1.321944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CONVENCIÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.30194444, 8.679166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CONVENCIÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.30583333, 8.681388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Urbana",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL RETORNO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.14777778, 2.130833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CÁCERES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.14777778, 7.551111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BRICEÑO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.61166667, 7.095277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57583333, 1.334722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL RETORNO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.07416667, 2.179166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.63944444, 1.268888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "MAGÜÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.97194444, 1.903055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SARAVENA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.75444444, 6.930555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.485, 7.516111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57361111, 1.329444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.2375, 8.501388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56722222, 1.325833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CONVENCIÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.38416667, 8.547222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.11694444, 8.388055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CONVENCIÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.28277778, 8.7325 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SARDINATA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.96527778, 8.403333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.13583333, 8.408888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.13527778, 8.409722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.30861111, 8.433055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "LA LLANADA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.57087771, 1.484613435 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ÁBREGO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.22503709, 8.082680011 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.20816763, 8.404077714 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.76393643, 1.793385843 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL TAMBO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.80520459, 2.450572705 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.400212, 7.582546 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "RIOSUCIO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.111288, 7.437292 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CORDOBA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIERRALTA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.052223, 8.181547 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.39799472, 7.586690781 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ITUANGO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.764403, 7.171637 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL RETORNO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.62777, 2.330752 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.730855, 6.461209 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.77155278, 6.7944 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.42935278, 7.024444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.76393643, 1.793385843 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "SUCRE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "COLOSÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.35514089, 9.499587842 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "VALLE DEL CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BUENAVENTURA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.07416539, 3.885695697 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "RIOSUCIO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.1211599, 7.433909044 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "PAILITAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.62819584, 8.961418242 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.76393643, 1.793385843 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.20816763, 8.404077714 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.76393643, 1.793385843 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.28963242, 8.439165509 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.28963242, 8.439165509 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.20816763, 8.404077714 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.20816763, 8.404077714 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.76393643, 1.793385843 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.14882272, 8.323146597 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CALAMAR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.64596051, 1.958000588 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.14882272, 8.323146597 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "JAMBALÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.31387747, 2.778257237 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "LEIVA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.29507595, 1.936694267 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CÁCERES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.34988858, 7.577658378 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "MAGÜÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.17474813, 1.763732565 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.77345006, 6.789849044 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.39799472, 7.586690781 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL RETORNO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.6446029, 2.343233024 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.20816763, 8.404077714 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.77345006, 6.789849044 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.20816763, 8.404077714 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.45022461, 8.512906536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.14882272, 8.323146597 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.20816763, 8.404077714 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL RETORNO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.6446029, 2.343233024 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.14882272, 8.323146597 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.14882272, 8.323146597 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.20816763, 8.404077714 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CORDOBA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIERRALTA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.968474, 8.136211 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "2",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TORIBÍO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.26254738, 2.955682271 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CORDOBA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIERRALTA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.283, 8.005 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.5, 7.527 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CUMBITARA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.664, 1.867 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.082, 8.407 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN DEL DARIEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.97670034, 7.132012326 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN DEL DARIEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.97670034, 7.132012326 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SARDINATA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.80576319, 8.08681225 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.49994146, 7.524867234 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.60933333, 1.303694444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.42791667, 1.404472222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.71666667, 1.383333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.61483333, 1.303361111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.65308333, 1.39 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.66961111, 1.41425 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.43066667, 1.395055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.47508333, 7.511555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.42791667, 1.404472222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.45472222, 7.512 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.45555556, 7.540138889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.62633333, 1.30425 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.6, 1.283333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "UNGUÍA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.23305556, 8.13 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.53416667, 6.595277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.85833333, 8.861944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.51027778, 6.525277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "1",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ZARAGOZA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.937, 7.435 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.41138889, 1.4275 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ACEVEDO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.90611111, 1.735277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ANORÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.1025, 7.221944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.53611111, 1.280833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.53527778, 1.284722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIMBIQUÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.64494444, 2.79125 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BAJO BAUDÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.25472222, 4.790444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "RIOSUCIO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.05208611, 7.4032 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BAJO BAUDÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.16102778, 4.735777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.58305556, 6.919444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BAJO BAUDÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.21186111, 4.692694444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.94, 7.494722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "LITORAL DEL SAN JUAN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.02377222, 4.3114 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.10916667, 6.964166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "LITORAL DEL SAN JUAN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.36166667, 4.305555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "8",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.34666667, 2.355277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CANTAGALLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.08472222, 7.3875 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.84955556, 2.579944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.81783333, 2.612361111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.92752778, 2.486277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "LITORAL DEL SAN JUAN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.00972222, 4.399722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "JURADÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.61591667, 6.842555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.14343333, 2.3735 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "JURADÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.65428083, 6.982194444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "PUTUMAYO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "PUERTO ASÍS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.26556944, 0.4350055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "JURADÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.67122222, 6.948888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.45222222, 1.412777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CHIMICHAGUA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.44888889, 8.976388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.77527778, 6.792777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL TAMBO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.94666667, 2.684444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ANORÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.20972222, 7.215555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "VALDIVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.33666667, 7.308888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.48861111, 6.659166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.10111111, 8.3975 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CALAMAR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.62111111, 1.964444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.45888889, 1.408611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "HUILA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CAMPOALEGRE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.33222222, 2.435833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL TAMBO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.73694444, 2.471388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.21583333, 8.389166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.64694444, 1.388888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.67944444, 6.558611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.77361111, 6.792777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL TARRA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.09111111, 8.589722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "MORALES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.62916667, 2.754166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CÚCUTA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.49805556, 7.875277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.58611111, 2.574722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "PUERTO GAITÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.28638889, 4.503611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.74916667, 6.566111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.18722222, 6.674444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.29611111, 6.853333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.85722222, 2.768055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.77472222, 6.793055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CUNDINAMARCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "NILO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.63944444, 4.256944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.89972222, 8.986111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.93166667, 2.465555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.18611111, 7.525 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CORDOBA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSE DE URE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.60944444, 7.658611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SARAVENA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.76861111, 6.817777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.22833333, 8.617222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CHISCAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.49166667, 6.649166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BARBACOAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.09333333, 1.28 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BARBACOAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.09333333, 1.28 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.83333333, 2.351111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "RIOSUCIO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.30027778, 7.454444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.59944444, 6.712222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.90055556, 9.047222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SARAVENA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.88333333, 6.953611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.89166667, 2.753888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.22472222, 8.593333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "NOROSÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.03916667, 8.537777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "PUERTO LLERAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.36305556, 3.314166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "MUTATÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.48805556, 7.355833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "LA PAZ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.1775, 10.37361111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "PUERTO GAITÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.75083333, 3.5675 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.22277778, 8.628055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.20055556, 8.610833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SIPÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.64527778, 4.656388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "OCAÑA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.365, 8.282222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.89, 8.971944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.39638889, 7.578333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.12305556, 6.706388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.22222222, 8.668611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL RETORNO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.97305556, 2.251388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "VALLE DEL CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SEVILLA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.85166667, 4.057777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ACACÍAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.84361111, 3.984166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.86333333, 8.839444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.32333333, 2.6125 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "PUERTO GAITÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.11, 4.306388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.8775, 2.237222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "VAUPES",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CARURÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.33916667, 1.008888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SARAVENA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.85166667, 6.961388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.3525, 6.586388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.17694444, 2.418333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN ANDRÉS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.83833333, 6.814166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL TAMBO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.98611111, 2.527777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "PUERTO RONDÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.15805556, 6.520277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.61694444, 1.404444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.28305556, 6.803333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.22444444, 8.518055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CHIMICHAGUA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.45416667, 8.982222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CÁCERES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.20833333, 7.618611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.59916667, 1.326666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56416667, 1.325555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56666667, 1.326111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.62916667, 1.274166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CÚCUTA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.50388889, 8.024166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.63472222, 1.283888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.34944444, 6.786666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "RIOSUCIO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.77361111, 7.326666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.69888889, 8.638333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.7475, 6.776944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.65888889, 1.320833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.61555556, 1.257777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.28527778, 6.813611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56666667, 1.325555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "INZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.03972222, 2.582222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.54611111, 1.315 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57388889, 1.335277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56944444, 1.323611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56888889, 1.324722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "LA GUAJIRA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BARRANCAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.66138889, 10.86722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.0125, 2.636388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.15194444, 6.790833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "VIGÍA DEL FUERTE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.72055556, 6.616666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.39, 7.011944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.26194444, 7.478055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.10916667, 6.579444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57555556, 1.334444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.07944444, 7.397222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57583333, 1.335833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "YARUMAL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.61361111, 7.001944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.45166667, 1.412777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.22388889, 8.600277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "RIOSUCIO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.21055556, 7.110555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.29444444, 6.853611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.64416667, 1.310277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56888889, 1.324444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "OCAÑA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.35527778, 8.317222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.74833333, 2.561388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.20444444, 8.399722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "YARUMAL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.56027778, 6.973055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.40555556, 6.488611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.20583333, 8.399444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.19333333, 8.386666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.41611111, 2.592777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.58222222, 1.364722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57944444, 1.335555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57611111, 1.310833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56638889, 1.324166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56888889, 1.327222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.47805556, 7.643333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ANORÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.0925, 7.221666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "RICAURTE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.04416667, 1.225277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "VALDIVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.31416667, 7.336666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.65027778, 1.388888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56083333, 1.265 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.20388889, 8.398055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.08777778, 2.681111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.17083333, 6.699444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56972222, 1.323055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56666667, 1.324444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.205, 8.401944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.86222222, 8.63 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CANTAGALLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.08472222, 7.3875 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.20361111, 6.660833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CUMBAL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.18944444, 0.9741666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.55, 1.2925 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56833333, 1.318055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56472222, 1.266388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57666667, 1.335555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.20583333, 8.3975 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.90861111, 8.649722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN CALIXTO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.24166667, 8.448333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.66027778, 1.3375 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56527778, 1.349166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.21916667, 8.598611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "NÓVITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.625, 4.934444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.6625, 1.333333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.09916667, 8.313611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CONVENCIÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.33888889, 8.470277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CONVENCIÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.37166667, 8.553611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.01805556, 7.6125 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.83333333, 8.594166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57277778, 1.338611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.87611111, 8.843888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BRICEÑO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.54916667, 7.108333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SIPÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.64388889, 4.666944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56694444, 1.27 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.84944444, 2.579722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "GALÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.38027778, 6.673055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CONVENCIÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.30444444, 8.666666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.48388889, 6.650555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.92166667, 2.323055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.57916667, 6.6175 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUCA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -70.95805556, 6.6625 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.53805556, 1.279722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SARDINATA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.73444444, 8.390277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "POLICARPA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.56444444, 1.775277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56777778, 1.326944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "APARTADÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.46027778, 7.966388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.52944444, 1.260555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "RIO IRÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.45222222, 5.192777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.60111111, 1.315833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.54916667, 1.329166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.62972222, 1.387777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.81722222, 2.612222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN DEL DARIEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.645, 7.211666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN DEL DARIEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.64305556, 7.211111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ANORÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.00805556, 7.266944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ANORÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.24027778, 7.105555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CONVENCIÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.3275, 8.511388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.9275, 2.486111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TORIBÍO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.28333333, 3.046944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "MEDIO SAN JUAN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.71472222, 5.088333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.65777778, 1.326944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.65944444, 1.325833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.00361111, 2.748888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CESAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "PAILITAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.57055556, 8.8575 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ANORÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.00805556, 7.167222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.71222222, 1.391666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.71305556, 1.391944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.55, 1.2475 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.52916667, 1.2875 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.86555556, 8.630833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.8625, 8.908055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56888889, 1.323055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.22138889, 8.555 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "MUTATÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.44194444, 7.248611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.77388889, 6.79 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.67833333, 1.335277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.92, 2.281111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "LA GUAJIRA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "URUMITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.00027778, 10.47611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TIBÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.86555556, 8.630833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.62388889, 1.273888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.55694444, 1.260555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SANTA ROSA DEL SUR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.48805556, 7.41 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.4575, 7.532222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.71722222, 1.389444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.62833333, 1.2775 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57, 1.328888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57611111, 1.325 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.615, 1.291666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CALAMAR"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.40555556, 1.812777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CASTILLA LA NUEVA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.67722222, 3.863333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57222222, 1.331944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TEORAMA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.22444444, 8.554444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.61694444, 1.425555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56305556, 1.269722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TORIBÍO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.26777778, 2.956666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.4, 6.799444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56083333, 1.263333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57305556, 1.333611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.09638889, 7.422777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.61666667, 1.258055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56055556, 1.266111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "LITORAL DEL SAN JUAN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.00972222, 4.399722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.42083333, 6.542222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CASANARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "LA SALINA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.33638889, 6.136388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.69916667, 1.435277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57972222, 1.334444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.63888889, 1.268333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.61944444, 1.265555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.40055556, 6.776111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.14305556, 6.671944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SARAVENA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.78111111, 6.85 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.60111111, 7.589444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.60166667, 7.59 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57166667, 1.275277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.14333333, 2.373333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.63333333, 1.267222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CASANARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HATO COROZAL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.93472222, 6.127777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.55611111, 1.268055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL TAMBO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.83944444, 2.558333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.65944444, 1.356944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ALTO BAUDÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.96972222, 5.497777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.73805556, 1.383055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.72833333, 1.427222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TORIBÍO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.27638889, 2.998333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.63722222, 1.270833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56805556, 1.329444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CANTAGALLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.08805556, 7.342777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.7425, 1.382777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.73722222, 1.380277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57416667, 1.355555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SARAVENA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.79, 6.877222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.71861111, 1.38 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TAME"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.36916667, 6.5 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.61972222, 1.274166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57388889, 1.326666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.62416667, 1.272777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "YALÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.70861111, 6.771666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TORIBÍO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.24638889, 3.075 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CANTAGALLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.08416667, 7.344166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN JOSÉ DEL GUAVIARE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.13777778, 2.840833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.66083333, 1.313055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.58, 1.313888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "JAMBALÓ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.31972222, 2.977777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.62194444, 1.271111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.62305556, 1.270555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.26583333, 6.660277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56555556, 1.297222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56611111, 1.296388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.60194444, 1.276944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.63138889, 1.277222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57194444, 1.298611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.31555556, 6.776111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.38361111, 6.800555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.66916667, 1.414444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.38138889, 6.793611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.67111111, 1.411388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.59694444, 1.299166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "VALLE DEL CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "JAMUNDÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.69833333, 3.149166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "RIOSUCIO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.30555556, 7.177222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "VAUPES",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "MITÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -70.24083333, 1.2175 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.38333333, 6.797222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.61555556, 7.034166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.5725, 1.281944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.64305556, 1.364166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "GÜICÁN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.40527778, 6.468611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.56111111, 7.543888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.62555556, 1.270555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TARAZÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.56944444, 7.535 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "YALÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.6175, 6.759722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CÁCERES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.22638889, 7.502222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.58055556, 1.315 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ANORÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.21138889, 7.217777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.55111111, 1.296388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.77666667, 6.798055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.55416667, 1.300555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CARTAGENA DEL CHAIRÁ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.70527778, 1.013055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.4625, 1.690833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TORIBÍO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.28888889, 2.964444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "VALDIVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.31722222, 7.396111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57277778, 1.309444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.62944444, 1.286388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.60944444, 1.287222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TORIBÍO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.28638889, 2.975277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57194444, 1.298611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.64722222, 1.278611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CASTILLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.97666667, 3.625555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CONVENCIÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.27666667, 8.718888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.63694444, 1.273333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.63416667, 1.277777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN DEL DARIEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.18055556, 6.921666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.65861111, 1.3325 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57416667, 1.336111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "PUERTO RICO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.46305556, 2.792222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN DEL DARIEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.18222222, 6.921666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SARAVENA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.74111111, 6.934444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.66111111, 1.355555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "GUAVIARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL RETORNO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.20888889, 2.086944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.64916667, 1.398888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BRICEÑO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.47805556, 7.212222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57361111, 1.307777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CÁCERES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.08888889, 7.429722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.58305556, 1.305833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SOLANO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.17527778, 1.023333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "PUTUMAYO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "PUERTO ASÍS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.26555556, 0.435 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.28583333, 6.806388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SOLANO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.18555556, 1.024444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.58777778, 1.3125 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.19611111, 6.658333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CONVENCIÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.28055556, 8.724722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SOLANO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.18583333, 1.025555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SIPÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.65083333, 4.665833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.21055556, 6.651111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.65638889, 1.303611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.63416667, 1.3975 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.62555556, 1.283333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BARBACOAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.49138889, 1.270555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.54638889, 1.270555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.1375, 8.406944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN DEL DARIEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.20777778, 6.953888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CONVENCIÓN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.25388889, 8.732777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.1, 8.413333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CÁCERES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.13, 7.494444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN DEL DARIEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.18277778, 6.914444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.1, 8.405555556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN DEL DARIEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.18277778, 6.914444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "META",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CASTILLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.85694444, 3.623611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "VAUPES",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "MITÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -70.22861111, 1.263333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "VAUPES",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "MITÚ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -70.23111111, 1.261666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.10416667, 8.394722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN DEL DARIEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.18277778, 6.914444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CASANARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "PAZ DE ARIPORO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.93722222, 5.888611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.41416667, 9.0825 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.10194444, 8.413055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.15472222, 8.418055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "PATÍA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.025, 2.136944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.44583333, 1.409166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.09722222, 8.400277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56833333, 1.328055556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.09444444, 8.321388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.54694444, 1.262777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.95444444, 7.556944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN DEL DARIEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.265, 6.988888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CHOCO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL CARMEN DEL DARIEN"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.19944444, 6.949722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.18, 6.676944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "CÁCERES"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.19833333, 7.534166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CASANARE",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HATO COROZAL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.75, 6.163333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56, 1.259722222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.55972222, 1.259444444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.65055556, 1.3825 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56, 1.2625 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOLIVAR",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SAN PABLO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.93388889, 7.532222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.155, 8.317777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.19611111, 6.609166667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "BOYACA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "LABRANZAGRANDE"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.58, 5.403888889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.21777778, 6.681111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BARBACOAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.4975, 1.207222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.57222222, 1.330833333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.65361111, 1.401944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.36888889, 6.743611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.5575, 1.268333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAQUETA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "SOLANO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.99055556, 0.7897222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "ARAUQUITA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.32861111, 6.611944444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.53888889, 1.3225 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.56666667, 1.328611111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.65472222, 1.391111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ANTIOQUIA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "VALDIVIA"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.36916667, 7.296388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.55555556, 1.261111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.60027778, 1.331111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.76444444, 6.800277778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.60027778, 1.331111111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.55694444, 1.262777778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "ARAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "FORTUL"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.75027778, 6.8075 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "TUMACO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.66055556, 1.336666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NARIÑO",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "BARBACOAS"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.49611111, 1.206388889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "NORTE DE SANTANDER",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "HACARÍ"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.12388889, 8.387222222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "TIPO_EVENTO" : "4",
+      "DEPARTAMENTO" : "CAUCA",
+      "TIPO_AREA" : "Rural",
+      "AÑO" : "2018",
+      "MUNICIPIO" : "EL TAMBO"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.94277778, 2.440555556 ]
+    }
+  } ],
+  "properties": {
+    "fields":{
+      "TIPO_EVENTO": {"lookup": {"1": "Accidente por MAP", "2": "Accidente por MUSE", "3": "Arsenal almacenada", "4": "Desminado militar en operaciones","5": "Incautaciones", "6":"Municiones sin explotar","7":"Producción de Minas (Fábrica)","8":"Sospecha de campo minado"}, "name": "Tipo de evento"},
+      "AÑO": {"name": "Año"},
+      "DEPARTAMENTO": {"name": "Departamento"},
+      "MUNICIPIO": {"name": "Municipio"},
+      "TIPO_AREA": {"name": "Tipo de area"}
+    }
+  }
+}
