@@ -75,7 +75,7 @@ Area marks with angle channel: Pie chart para presentar la cantidad eventos por 
 * Area: Pie por fragmentos por cada tipo de evento.
 
 ## Eventos o incidentes relacionados con minas anti persona en el territorio nacional por año seleccionado (De 1990 a 2019).
-![Eventos de mina antipersona](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/grouped.png)
+![Eventos de mina antipersona](https://github.com/hpuentes/eventos-minas-antipersonas-colombia/blob/master/minas.png?raw=true)
 
 ## Conclusiones
 
