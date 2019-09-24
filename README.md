@@ -81,7 +81,7 @@ Se debe seleccionar el combobox para cambiar la vista de los eventos de mina ant
 
 ## Conclusiones
 
-Las minas antipersona han estado presentes dentro del territorio Colombiano a lo largo de muchos años, estos eventos en su mayoría se han presentado en la zona central, occidental y norte del país, zonas donde los grupos al margen de la ley han tenido mayor actividad insurgente.
+Las minas antipersona han estado presentes dentro del territorio Colombiano a lo largo de muchos años, estos eventos en su mayoría se han presentado en la zona central, occidental y norte del país, zonas donde los grupos al margen de la ley han tenido mayor actividad insurgente.Se evidencia durante los últimos años una alta actividad de desminado militar, sin embargo sigue presentandose accidentes MAP(Minas Antipersonal) y MUSE(Munición sin explotar), situación que pone en riesgo a la población civil y al ejercito nacional.
 
 ## Tecnologías usadas
 * D3@5
