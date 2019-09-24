@@ -45,29 +45,32 @@ T1. Presentar la distribución geográfica de los eventos de minas antipersona e
 ### Tareas secundarias.
 T2. Presentar la distribución geográfica de los eventos de minas antipersona por año.
 (Present)-(SpatialData)
+
 T3. Comparar los diferentes clusters de eventos de minas antipersona según tipo de eventos.
 (Compare)-(Distribution) 
 
 ### WHAT?
 Attributes:
 Ubicación espacial del evento mina antipersona: Geographic geometry data.
-Año: Ordering, Sequential.
+Año: Ordered, Quatitative sequential.
 Tipo de evento antipersona: Categorical.
 
 ### WHY?
 Presentar la distribución geográfica de los eventos de minas antipersona en el territorio Colombiano.
 (Present)-(SpatialData)
+
 Presentar la distribución geográfica de los eventos de minas antipersona por año.
 (Present)-(SpatialData)
+
 Comparar los diferentes clusters de eventos de minas antipersona según tipo de eventos.
 (Compare)-(Distribution) 
 
 ### HOW?
-Separate - Orden - Align: Barras de Rango de edades y tipo de accidente.
-Select: Selecciona gravedad de victima para actualizar distribución, selecciona cada fragmento de barra (Tipo de accidente en un rango de edad) para obtener detalles.
+Space: Ubicación geográfica de los eventos de mina antipersona.
+Select: Selecciona año de los eventos de mina antipersona, selecciona cada fragmento de pie (Tipo de evento por cluster) para obtener detalles.
 Embed: Por cada barra de rango de edad se fragmenta por tipo de accidente.
+Area marks with angle channel: Pie chart para presentar la cantidad eventos por cada tipo en cada cluster.
 
 ### Channels:
-HUE: Colores para cada tipo de accidente.
-Position on common scale: Fragmentos de barra (Tipo de accidente en un rango de edad) con tamaño por tipo de incidente.
-Tilt: Barras verticales para cada rango de edad indicando cantidad de incidentes.
+HUE: Colores para cada tipo de evento.
+Area: Pie por fragmentos por cada tipo de evento.
