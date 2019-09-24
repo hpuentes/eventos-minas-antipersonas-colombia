@@ -5,6 +5,7 @@ Colombia ha sido afectado por eventos relacionados con minas antipersonales dura
 El principal objetivo es identificar los puntos foco y por cada uno de estos entender como es la distribución por tipo de evento, por ejemplo un accidente MAP, un accidente MUSE, incautación de arsenal almacenado, etc. Las zonas donde se observa mayor afectación en los diferentes años ha sido la zona centro, occidente y norte de Colombia, zonas donde se los grupos al margen de la ley centran la mayoría de actividades insurgentes.
 ## Autor 
 Hermes Puentes Navarro https://www.linkedin.com/in/hermes-puentes-navarro-1898b2b3/
+
 Combining code from Bård Romstad´s block http://bl.ocks.org/gisminister/10001728
 ### Fuente: Datos Abiertos Bogotá
 ###  Eventos Minas Antipersonal en Colombia.
