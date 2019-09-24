@@ -81,7 +81,7 @@ Se debe seleccionar el combobox para cambiar la vista de los eventos de mina ant
 
 ## Conclusiones
 
-Las minas antipersona es un 
+Las minas antipersona han estado presentes dentro del territorio Colombiano a lo largo de muchos años, estos eventos en su mayoría se han presentado en la zona central, occidental y norte del país, zonas donde los grupos al margen de la ley han tenido mayor actividad insurgente.
 
 ## Tecnologías usadas
 * D3@5
