@@ -25,8 +25,11 @@ Los datos descargados de la fuente de Datos Abiertos Bogotá fueron preparados p
 Donde por cada punto se cuenta con la siguiente información:
 
 TIPO_EVENTO: {"1": "Accidente por MAP(Minas Antipersonal)", "2": "Accidente por MUSE(Municiones sin explotar)", "3": "Arsenal almacenada", "4": "Desminado militar en operaciones","5": "Incautaciones", "6":"Municiones sin explotar","7":"Producción de Minas (Fábrica)","8":"Sospecha de campo minado"}
+
 Tipo area: Rural o urbana.
+
 Año: Año del evento.
+
 Municipio: Municipio del evento.
 
 El desarrollo de preparación de datos se hizo en java y se encuentra en github: https://github.com/hpuentes/eventos-minas-antipersonas-colombia/tree/master/Minas
