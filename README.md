@@ -52,34 +52,27 @@ T3. Comparar los diferentes clusters de eventos de minas antipersona según tipo
 ## WHAT?
 Attributes:
 
-Ubicación espacial del evento mina antipersona: Geographic geometry data.
-
-Año: Ordered, Quatitative sequential.
-
-Tipo de evento antipersona: Categorical.
+* Ubicación espacial del evento mina antipersona: Geographic geometry data.
+* Año: Ordered, Quatitative sequential.
+* Tipo de evento antipersona: Categorical.
 
 ## WHY?
-Presentar la distribución geográfica de los eventos de minas antipersona en el territorio Colombiano.
+* Presentar la distribución geográfica de los eventos de minas antipersona en el territorio Colombiano.
 (Present)-(SpatialData)
-
-Presentar la distribución geográfica de los eventos de minas antipersona por año.
+* Presentar la distribución geográfica de los eventos de minas antipersona por año.
 (Present)-(SpatialData)
-
-Comparar los diferentes clusters de eventos de minas antipersona según tipo de eventos.
+* Comparar los diferentes clusters de eventos de minas antipersona según tipo de eventos.
 (Compare)-(Distribution) 
 
 ## HOW?
-Space: Ubicación geográfica de los eventos de mina antipersona.
-
-Select: Selecciona año de los eventos de mina antipersona, selecciona cada fragmento de pie (Tipo de evento por cluster) para obtener detalles.
-
-Embed: Por cada barra de rango de edad se fragmenta por tipo de evento de mina antipersona.
+* Space: Ubicación geográfica de los eventos de mina antipersona.
+* Select: Selecciona año de los eventos de mina antipersona, selecciona cada fragmento de pie (Tipo de evento por cluster) para obtener detalles.
+* Embed: Por cada barra de rango de edad se fragmenta por tipo de evento de mina antipersona.
 Area marks with angle channel: Pie chart para presentar la cantidad eventos por cada tipo en cada cluster.
 
 ### Channels:
-HUE: Colores para cada tipo de evento.
-
-Area: Pie por fragmentos por cada tipo de evento.
+* HUE: Colores para cada tipo de evento.
+* Area: Pie por fragmentos por cada tipo de evento.
 
 ## Eventos o incidentes relacionados con minas anti persona en el territorio nacional por año seleccionado (De 1990 a 2019).
 ![Eventos de mina antipersona](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/grouped.png)
