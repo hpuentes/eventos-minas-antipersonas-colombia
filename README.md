@@ -75,9 +75,13 @@ Area marks with angle channel: Pie chart para presentar la cantidad eventos por 
 * Area: Pie por fragmentos por cada tipo de evento.
 
 ## Eventos o incidentes relacionados con minas anti persona en el territorio nacional por año seleccionado (De 1990 a 2019).
+Se debe seleccionar el combobox para cambiar la vista de los eventos de mina antipersona según el año seleccionado. Tooltip de la derecha indica los colores del pie chart de cada cluster relacionado a un tipo de evento de mina antipersona. Se presentan clusters por diferentes zonas geográficas del territorio Colombiano donde se agrupan los eventos de mina antipersona por cercania. 
+
 ![Eventos de mina antipersona](https://github.com/hpuentes/eventos-minas-antipersonas-colombia/blob/master/minas.png?raw=true)
 
 ## Conclusiones
+
+Las minas antipersona es un 
 
 ## Tecnologías usadas
 * D3@5
