@@ -38,18 +38,18 @@ Municipio: Municipio del evento.
 
 El desarrollo de preparación de datos se hizo en java y se encuentra en github: https://github.com/hpuentes/eventos-minas-antipersonas-colombia/tree/master/Minas
 
-### Tarea Principal.
+## Tarea Principal.
 T1. Presentar la distribución geográfica de los eventos de minas antipersona en el territorio Colombiano.
 (Present)-(SpatialData)
 
-### Tareas secundarias.
+## Tareas secundarias.
 T2. Presentar la distribución geográfica de los eventos de minas antipersona por año.
 (Present)-(SpatialData)
 
 T3. Comparar los diferentes clusters de eventos de minas antipersona según tipo de eventos.
 (Compare)-(Distribution) 
 
-### WHAT?
+## WHAT?
 Attributes:
 
 Ubicación espacial del evento mina antipersona: Geographic geometry data.
@@ -58,7 +58,7 @@ Año: Ordered, Quatitative sequential.
 
 Tipo de evento antipersona: Categorical.
 
-### WHY?
+## WHY?
 Presentar la distribución geográfica de los eventos de minas antipersona en el territorio Colombiano.
 (Present)-(SpatialData)
 
@@ -68,7 +68,7 @@ Presentar la distribución geográfica de los eventos de minas antipersona por a
 Comparar los diferentes clusters de eventos de minas antipersona según tipo de eventos.
 (Compare)-(Distribution) 
 
-### HOW?
+## HOW?
 Space: Ubicación geográfica de los eventos de mina antipersona.
 
 Select: Selecciona año de los eventos de mina antipersona, selecciona cada fragmento de pie (Tipo de evento por cluster) para obtener detalles.
@@ -80,3 +80,17 @@ Area marks with angle channel: Pie chart para presentar la cantidad eventos por 
 HUE: Colores para cada tipo de evento.
 
 Area: Pie por fragmentos por cada tipo de evento.
+
+## Eventos o incidentes relacionados con minas anti persona en el territorio nacional por año seleccionado (De 1990 a 2019).
+![Eventos de mina antipersona](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/grouped.png)
+
+## Conclusiones
+
+## Tecnologías usadas
+* D3@5
+* Javascript
+* Java
+* Geojson
+* leaflet_markercluster
+* leaflet JS
+* Despliegue en el sitio observablehq.
