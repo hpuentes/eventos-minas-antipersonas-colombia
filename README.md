@@ -37,3 +37,37 @@ Año: Año del evento.
 Municipio: Municipio del evento.
 
 El desarrollo de preparación de datos se hizo en java y se encuentra en github: https://github.com/hpuentes/eventos-minas-antipersonas-colombia/tree/master/Minas
+
+### Tarea Principal.
+T1. Presentar la distribución geográfica de los eventos de minas antipersona en el territorio Colombiano.
+(Present)-(SpatialData)
+
+### Tareas secundarias.
+T2. Presentar la distribución geográfica de los eventos de minas antipersona por año.
+(Present)-(SpatialData)
+T3. Comparar los diferentes clusters de eventos de minas antipersona según tipo de eventos.
+(Compare)-(Distribution) 
+
+### WHAT?
+Attributes:
+Ubicación espacial del evento mina antipersona: Geographic geometry data.
+Año: Ordering, Sequential.
+Tipo de evento antipersona: Categorical.
+
+### WHY?
+Presentar la distribución geográfica de los eventos de minas antipersona en el territorio Colombiano.
+(Present)-(SpatialData)
+Presentar la distribución geográfica de los eventos de minas antipersona por año.
+(Present)-(SpatialData)
+Comparar los diferentes clusters de eventos de minas antipersona según tipo de eventos.
+(Compare)-(Distribution) 
+
+### HOW?
+Separate - Orden - Align: Barras de Rango de edades y tipo de accidente.
+Select: Selecciona gravedad de victima para actualizar distribución, selecciona cada fragmento de barra (Tipo de accidente en un rango de edad) para obtener detalles.
+Embed: Por cada barra de rango de edad se fragmenta por tipo de accidente.
+
+### Channels:
+HUE: Colores para cada tipo de accidente.
+Position on common scale: Fragmentos de barra (Tipo de accidente en un rango de edad) con tamaño por tipo de incidente.
+Tilt: Barras verticales para cada rango de edad indicando cantidad de incidentes.
