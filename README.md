@@ -16,9 +16,13 @@ Descripción detallada de los datos: http://www.accioncontraminas.gov.co/estadis
 Los datos descargados de la fuente de Datos Abiertos Bogotá fueron preparados para construir construir una fuente geojson que cumple con el siguiente formato:
 
 { "type" : "FeatureCollection", "features" :
-[ { "type" : "Feature",
+[ 
+
+{ "type" : "Feature",
 "properties" : { "TIPO_EVENTO" : "1", "DEPARTAMENTO" : "ANTIOQUIA", "TIPO_AREA" : "Rural", "AÑO" : "2011", "MUNICIPIO" : "ANORÍ" }, "geometry" : { "type" : "Point", "coordinates" : [ -75.06333333, 7.2925 ] } },
-{ "type" : "Feature", "properties" : { "TIPO_EVENTO" : "1", "DEPARTAMENTO" : "CAUCA", "TIPO_AREA" : "Rural", "AÑO" : "2011", "MUNICIPIO" : "MIRANDA" }, "geometry" : { "type" : "Point", "coordinates" : [ -76.07583333, 3.197777778 ] } } ...
+
+{ "type" : "Feature", "properties" : { "TIPO_EVENTO" : "1", "DEPARTAMENTO" : "CAUCA", "TIPO_AREA" : "Rural", "AÑO" : "2011", "MUNICIPIO" : "MIRANDA" }, "geometry" : { "type" : "Point", "coordinates" : [ -76.07583333, 3.197777778 ] } } 
+...
 ...
 ] }
 
